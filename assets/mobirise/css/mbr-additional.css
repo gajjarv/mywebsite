@@ -7397,83 +7397,15 @@ a {
     left: -1rem;
   }
 }
-.cid-tk0u8WLucW {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #232323;
-}
-.cid-tk0u8WLucW .row-links {
-  width: 100%;
-  justify-content: center;
-}
-.cid-tk0u8WLucW .social-row {
-  width: 100%;
-  justify-content: center;
-}
-.cid-tk0u8WLucW .media-container-row {
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.cid-tk0u8WLucW .media-container-row .foot-menu {
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-tk0u8WLucW .media-container-row .foot-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-tk0u8WLucW .media-container-row .foot-menu li p {
-  margin: 0;
-}
-.cid-tk0u8WLucW .media-container-row .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-}
-.cid-tk0u8WLucW .media-container-row .social-list .mbr-iconfont-social {
-  font-size: 1.5rem;
-  color: #ffffff;
-}
-.cid-tk0u8WLucW .media-container-row .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-tk0u8WLucW .media-container-row .social-list a {
-  margin: 0;
-  opacity: .5;
-  transition: .2s linear;
-}
-.cid-tk0u8WLucW .media-container-row .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-tk0u8WLucW .media-container-row .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-}
-.cid-tk0u8WLucW .media-container-row .row-copirayt {
-  word-break: break-word;
-  width: 100%;
-}
-.cid-tk0u8WLucW .media-container-row .row-copirayt p {
-  width: 100%;
-}
-.cid-u96Sb2GOHy {
+.cid-ua94rAAV9p {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-u96Sb2GOHy .mbr-fallback-image.disabled {
+.cid-ua94rAAV9p .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-u96Sb2GOHy .mbr-fallback-image {
+.cid-ua94rAAV9p .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -7482,25 +7414,76 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-u96Sb2GOHy .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
+.cid-ua94rAAV9p .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: #6592e6;
+  margin-left: 1rem;
 }
-.cid-u96Sb2GOHy .panel-title {
+.cid-ua94rAAV9p .panel-group {
+  border: none;
+}
+.cid-ua94rAAV9p .panel-title {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-.cid-u96Sb2GOHy .mbr-iconfont {
-  padding-left: 1rem;
-  font-family: 'Moririse2' !important;
-  font-size: 1.4rem !important;
-  color: #6592e6;
-}
-.cid-u96Sb2GOHy .panel-body,
-.cid-u96Sb2GOHy .card-header {
+.cid-ua94rAAV9p .panel-body,
+.cid-ua94rAAV9p .card-header {
   padding: 1rem 0;
 }
-.cid-u96Sb2GOHy .panel-title-edit {
+.cid-ua94rAAV9p .panel-title-edit {
   color: #000000;
+}
+.cid-ua94rAAV9p .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+}
+.cid-ua94rAAV9p DIV {
+  text-align: center;
+}
+.cid-ua94rAAV9p H3 {
+  text-align: center;
+}
+.cid-ua94rQAEZN {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-ua94rQAEZN .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ua94rQAEZN .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ua94rQAEZN .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: #6592e6;
+  margin-left: 1rem;
+}
+.cid-ua94rQAEZN .panel-group {
+  border: none;
+}
+.cid-ua94rQAEZN .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-ua94rQAEZN .panel-body,
+.cid-ua94rQAEZN .card-header {
+  padding: 1rem 0;
+}
+.cid-ua94rQAEZN .panel-title-edit {
+  color: #000000;
+}
+.cid-ua94rQAEZN .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
 }
